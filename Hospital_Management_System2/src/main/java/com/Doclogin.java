@@ -33,8 +33,8 @@ public class Doclogin extends HttpServlet {
 		String userId = "root";
 		String password = "root";
 		String pwdd=null;
-		String dname=request.getParameter("uname");
-		String psswd=request.getParameter("pwd");
+		String dname=request.getParameter("User Name:");
+		String psswd=request.getParameter("Password:");
 		try {
 			Class.forName(driverName);
 			} catch (ClassNotFoundException e) {

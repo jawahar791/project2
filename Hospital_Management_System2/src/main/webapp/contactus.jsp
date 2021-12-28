@@ -40,12 +40,12 @@
 					
       			<div class="company_address">
 				     	<h2>Hospital Address  :</h2>
-						    	<p>500 Lorem Ipsum Dolor Sit,</p>
-						   		<p>22-56-2-9 Sit Amet, Lorem,</p>
+						    	<p>Chauhan Vithi Rd,</p>
+						   		<p>Block E, Defence Colony,</p>
+						   		<p>New Delhi,Delhi-110049</p>
 						   		<p>India</p>
-				   		<p>Phone:(00) 222 666 444</p>
-				   		<p>Fax: (000) 000 00 00 0</p>
-				 	 	<p>Email: <span>info@mycompany.com</span></p>
+				   		<p>Mobile Number:(+91) 1122334455</p>
+				 	 	<p>Email: <span>info@hospitalmanagementsystem.com</span></p>
 				   	
 				   </div>
 				</div>				
